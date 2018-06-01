@@ -1,0 +1,8 @@
+numpy
+flask
+flask-socketio
+socketIO-client
+peewee
+DeepRTS
+eventlet
+tqdm
